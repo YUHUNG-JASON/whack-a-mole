@@ -30,9 +30,6 @@ bomb.png — bomb sprite
 ⚠️ File names and image sizes are important – images are resized to fit 50x50 or 30x30 pixels in the code.
 
 🧠 Project Structure
-bash
-复制
-编辑
 📁 your-project/
 ├── background.jpg
 ├── back.jpg
